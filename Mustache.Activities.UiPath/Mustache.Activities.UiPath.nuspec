@@ -7,11 +7,11 @@
     <authors>Varun Raj</authors>
     <owners>Varun Raj</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <licenseUrl>https://github.com/skcript/UiPath.Mustache.Extensions/blob/master/LICENSE.md</licenseUrl>
-    <projectUrl>https://github.com/skcript/UiPath.Mustache.Extensions</projectUrl>
+    <licenseUrl>https://github.com/skcript/UiPath.Activities.Mustache/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/skcript/UiPath.Activities.Mustache</projectUrl>
     <description>Templating Custom Activity for UiPath.</description>
     <summary>
-      Based on Mustache's C# Library (Stubble). Built for building text & html files from templates. Built mainly for building HTML document for email body. Currently supports template from string or a text file. 
+      Based on Mustache's C# Library (Stubble). Built for building text and html files from templates. Built mainly for building HTML document for email body. Currently supports template from string or a text file. 
     </summary>
     <language>en-US</language>
     <tags>UiPath Template Mustache C#</tags>
